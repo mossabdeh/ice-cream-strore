@@ -2,6 +2,10 @@
 
 # App looks like : 
 
+![1](https://github.com/mossabdeh/ice-cream-strore/assets/79877072/fafb10b1-4155-43df-9ff7-fd722b910f59)
+
+![2](https://github.com/mossabdeh/ice-cream-strore/assets/79877072/6bd8f6cc-37d9-4631-9cce-ebcab389fc68)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
 
