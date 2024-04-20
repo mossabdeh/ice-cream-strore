@@ -1,0 +1,6 @@
+<!-- product.component.html -->
+
+<mat-card class="product-card" [routerLink]="'product/' + product?.id">
+  <mat-card-title>{{ product?.name }}</mat-card-title>
+  <img mat-card-image [src]="imageUrl" />
+</mat-card>
